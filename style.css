@@ -5,6 +5,14 @@
  max-height: 901px;
  max-width: 1500px;
 }
+@media screen and (max-width:768px) {
+ font-size: 12px;
+
+ .navbar{
+  display: block;
+ }
+ 
+}
 body{
  background-color: #0a0b36;
  max-height: 901px;
